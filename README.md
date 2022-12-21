@@ -1,2 +1,2 @@
 # venster.io
-A to track suggestions and feature requests
+A repo to track suggestions and feature requests
